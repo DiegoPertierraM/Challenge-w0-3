@@ -15,4 +15,3 @@ const strictEquals = (a, b) => {
   }
   return false;
 };
-strictEquals();
